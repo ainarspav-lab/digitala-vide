@@ -1,0 +1,6 @@
+{
+  "name": "DIGITAL FOOTPRINT LAB",
+  "description": "Interaktīva 120 minūšu izglītības platforma 10.–12. klašu jauniešiem par digitālās pēdas ietekmi, privātumu, reputāciju un atbildīgām izvēlēm tiešsaistē.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
